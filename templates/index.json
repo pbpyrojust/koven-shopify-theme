@@ -132,6 +132,7 @@
     },
     "collage-1": {
       "type": "collage",
+      "disabled": true,
       "blocks": {
         "image-1": {
           "type": "image",
@@ -162,6 +163,7 @@
     },
     "collage-2": {
       "type": "collage",
+      "disabled": true,
       "blocks": {
         "image": {
           "type": "image",
@@ -185,6 +187,7 @@
     },
     "multicolumn-1": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "column-1": {
           "type": "column",
@@ -238,6 +241,7 @@
     },
     "multicolumn-2": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "column-1": {
           "type": "column",
