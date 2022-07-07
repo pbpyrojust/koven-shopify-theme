@@ -43,12 +43,14 @@
         "image-2": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/SVi5hYiLhCM.jpg",
             "image_padding": false
           }
         },
         "image-3": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/5679de39-0ee9-4b2c-8e31-030bce9980a8_phixr.jpg",
             "image_padding": false
           }
         }
