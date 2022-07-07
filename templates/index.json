@@ -36,7 +36,7 @@
         "image-1": {
           "type": "image",
           "settings": {
-            "image": "{{ shop.brand.cover_image }}",
+            "image": "shopify:\/\/shop_images\/unnamed_184889.jpg",
             "image_padding": false
           }
         },
