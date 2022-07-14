@@ -335,7 +335,8 @@
         "text"
       ],
       "settings": {
-        "height": "adapt",
+        "image": "shopify:\/\/shop_images\/KVNDEC02.jpg",
+        "height": "small",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
