@@ -309,7 +309,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Hat it Up!",
+            "heading": "Hat it Up",
             "heading_size": "h2"
           }
         },
@@ -354,7 +354,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Pant it Up!",
+            "heading": "Pant it Up",
             "heading_size": "h2"
           }
         },
@@ -399,7 +399,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Flag it Up",
             "heading_size": "h2"
           }
         },
