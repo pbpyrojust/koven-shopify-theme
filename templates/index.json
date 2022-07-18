@@ -312,27 +312,10 @@
             "heading": "Hat it Up",
             "heading_size": "h2"
           }
-        },
-        "caption": {
-          "type": "caption",
-          "settings": {
-            "caption": "add a tagline",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "medium"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to share one of your key brand values.<\/p>",
-            "text_style": "subtitle"
-          }
         }
       },
       "block_order": [
-        "heading",
-        "caption",
-        "text"
+        "heading"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/KVNDEC02.jpg",
@@ -357,27 +340,10 @@
             "heading": "Pant it Up",
             "heading_size": "h2"
           }
-        },
-        "caption": {
-          "type": "caption",
-          "settings": {
-            "caption": "Add a tagline",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "medium"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to share one of your key brand values.<\/p>",
-            "text_style": "subtitle"
-          }
         }
       },
       "block_order": [
-        "heading",
-        "caption",
-        "text"
+        "heading"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/KVNDEC03.jpg",
@@ -402,27 +368,10 @@
             "heading": "Flag it Up",
             "heading_size": "h2"
           }
-        },
-        "caption": {
-          "type": "caption",
-          "settings": {
-            "caption": "Add a tagline",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "medium"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to share one of your key brand values.<\/p>",
-            "text_style": "subtitle"
-          }
         }
       },
       "block_order": [
-        "heading",
-        "caption",
-        "text"
+        "heading"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/KVNFLG001-1.jpg",
@@ -494,7 +443,7 @@
         "column-1": {
           "type": "column",
           "settings": {
-            "title": "Use this space to share some information about your brand's history or values.",
+            "title": "Sometimes you just have to Light it Up with DJ Spark",
             "text": "",
             "link_label": "",
             "link": ""
@@ -521,9 +470,9 @@
         "column-4": {
           "type": "column",
           "settings": {
-            "title": "Share contact information, store details, and brand content with your customers.",
+            "title": "Learn more about the DJ Spark journey",
             "text": "",
-            "link_label": "Learn more about us",
+            "link_label": "Learn more about DJ Spark",
             "link": ""
           }
         }
