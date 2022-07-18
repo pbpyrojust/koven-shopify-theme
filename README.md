@@ -5,3 +5,5 @@ Install Node, NPM and Gulp
 Clone the [repo](https://github.com/pbpyrojust/sparkart-assignment-shopify-theme.git)
 
 Go to the directory in terminal and run `npm install`
+
+To compile `/sass` to `/assets` use the command `gulp buildStyles`
