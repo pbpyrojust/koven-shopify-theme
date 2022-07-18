@@ -1,4 +1,5 @@
 # sparkart-assignment-shopify-theme
+
 The Shopify theme for the Sparkart assignment by **Justin Adams**
 ---
 Install Node, NPM and Gulp
