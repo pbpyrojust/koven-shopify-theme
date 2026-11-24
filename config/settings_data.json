@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
     "colors_solid_button_labels": "#0000ff",
@@ -83,15 +92,15 @@
     "sale_badge_color_scheme": "accent-2",
     "sold_out_badge_color_scheme": "inverse",
     "accent_icons": "text",
-    "social_twitter_link": "https:\/\/twitter.com\/shopify",
-    "social_facebook_link": "https:\/\/twitter.com\/shopify",
+    "social_twitter_link": "https://twitter.com/shopify",
+    "social_facebook_link": "https://twitter.com/shopify",
     "social_pinterest_link": "",
-    "social_instagram_link": "https:\/\/twitter.com\/shopify",
-    "social_tiktok_link": "https:\/\/twitter.com\/shopify",
+    "social_instagram_link": "https://twitter.com/shopify",
+    "social_tiktok_link": "https://twitter.com/shopify",
     "social_tumblr_link": "",
     "social_snapchat_link": "",
     "social_youtube_link": "",
-    "social_vimeo_link": "https:\/\/twitter.com\/shopify",
+    "social_vimeo_link": "https://twitter.com/shopify",
     "predictive_search_enabled": true,
     "predictive_search_show_vendor": false,
     "predictive_search_show_price": false,
@@ -115,8 +124,7 @@
         "block_order": [
           "announcement-bar-0"
         ],
-        "settings": {
-        }
+        "settings": {}
       },
       "header": {
         "type": "header",
@@ -164,9 +172,14 @@
         }
       }
     },
-    "content_for_index": [
-
-    ]
+    "content_for_index": [],
+    "blocks": {
+      "consentmo-gdpr-4fbe573f-a377-4fea-9801-3ee0858cae41": {
+        "type": "shopify://apps/consentmo-gdpr/blocks/gdpr_cookie_consent/4fbe573f-a377-4fea-9801-3ee0858cae41",
+        "disabled": false,
+        "settings": {}
+      }
+    }
   },
   "presets": {
     "Default": {
@@ -285,8 +298,7 @@
           "block_order": [
             "announcement-bar-0"
           ],
-          "settings": {
-          }
+          "settings": {}
         },
         "header": {
           "type": "header",
